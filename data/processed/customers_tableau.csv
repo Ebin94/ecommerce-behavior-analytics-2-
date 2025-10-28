@@ -1,0 +1,351 @@
+customer_id,city,gender,age,membership_type,total_spend,items_purchased,avg_rating,discount_applied,days_since_last_purchase,satisfaction_level,purchase_date,recency_band
+101,New York,Female,29,Gold,1120.2,14,4.6,True,25,Satisfied,2025-10-03,15-30
+102,Los Angeles,Male,34,Silver,780.5,11,4.1,False,18,Neutral,2025-10-10,15-30
+103,Chicago,Female,43,Bronze,510.75,9,3.4,True,42,Unsatisfied,2025-09-16,31-60
+104,San Francisco,Male,30,Gold,1480.3,19,4.7,False,12,Satisfied,2025-10-16,0-14
+105,Miami,Male,27,Silver,720.4,13,4.0,True,55,Unsatisfied,2025-09-03,31-60
+106,Houston,Female,37,Bronze,440.8,8,3.1,False,22,Neutral,2025-10-06,15-30
+107,New York,Female,31,Gold,1150.6,15,4.5,True,28,Satisfied,2025-09-30,15-30
+108,Los Angeles,Male,35,Silver,800.9,12,4.2,False,14,Neutral,2025-10-14,0-14
+109,Chicago,Female,41,Bronze,495.25,10,3.6,True,40,Unsatisfied,2025-09-18,31-60
+110,San Francisco,Male,28,Gold,1520.1,21,4.8,False,9,Satisfied,2025-10-19,0-14
+111,Miami,Male,32,Silver,690.3,11,3.8,True,34,Unsatisfied,2025-09-24,31-60
+112,Houston,Female,36,Bronze,470.5,7,3.2,False,20,Neutral,2025-10-08,15-30
+113,New York,Female,30,Gold,1200.8,16,4.3,True,21,Satisfied,2025-10-07,15-30
+114,Los Angeles,Male,33,Silver,820.75,13,4.4,False,15,Satisfied,2025-10-13,15-30
+115,Chicago,Female,42,Bronze,530.4,9,3.5,True,38,Unsatisfied,2025-09-20,31-60
+116,San Francisco,Male,29,Gold,1360.2,18,4.9,False,11,Satisfied,2025-10-17,0-14
+117,Miami,Male,26,Silver,700.6,12,3.7,True,48,Unsatisfied,2025-09-10,31-60
+118,Houston,Female,38,Bronze,450.9,8,3.0,False,25,Neutral,2025-10-03,15-30
+119,New York,Female,32,Gold,1170.3,14,4.7,True,29,Satisfied,2025-09-29,15-30
+120,Los Angeles,Male,34,Silver,790.2,11,4.0,False,16,Neutral,2025-10-12,15-30
+121,Chicago,Female,43,Bronze,505.75,10,3.3,True,41,Unsatisfied,2025-09-17,31-60
+122,San Francisco,Male,30,Gold,1470.5,20,4.8,False,13,Satisfied,2025-10-15,0-14
+123,Miami,Male,27,Silver,710.4,13,4.1,True,54,Unsatisfied,2025-09-04,31-60
+124,Houston,Female,37,Bronze,430.8,7,3.4,False,23,Neutral,2025-10-05,15-30
+125,New York,Female,31,Gold,1140.6,15,4.6,True,27,Satisfied,2025-10-01,15-30
+126,Los Angeles,Male,35,Silver,810.9,12,4.3,False,13,Neutral,2025-10-15,0-14
+127,Chicago,Female,41,Bronze,485.25,9,3.6,True,39,Unsatisfied,2025-09-19,31-60
+128,San Francisco,Male,28,Gold,1500.1,21,4.9,False,10,Satisfied,2025-10-18,0-14
+129,Miami,Male,32,Silver,670.3,10,3.8,True,33,Unsatisfied,2025-09-25,31-60
+130,Houston,Female,36,Bronze,460.5,8,3.1,False,19,Neutral,2025-10-09,15-30
+131,New York,Female,30,Gold,1190.8,16,4.5,True,20,Satisfied,2025-10-08,15-30
+132,Los Angeles,Male,33,Silver,830.75,13,4.2,False,14,Satisfied,2025-10-14,0-14
+133,Chicago,Female,42,Bronze,520.4,9,3.5,True,37,Unsatisfied,2025-09-21,31-60
+134,San Francisco,Male,29,Gold,1370.2,18,4.7,False,10,Satisfied,2025-10-18,0-14
+135,Miami,Male,26,Silver,690.6,12,3.9,True,47,Unsatisfied,2025-09-11,31-60
+136,Houston,Female,38,Bronze,440.9,8,3.2,False,24,Neutral,2025-10-04,15-30
+137,New York,Female,32,Gold,1160.3,14,4.4,True,22,Satisfied,2025-10-06,15-30
+138,Los Angeles,Male,34,Silver,800.2,11,4.1,False,17,Neutral,2025-10-11,15-30
+139,Chicago,Female,43,Bronze,500.75,10,3.3,True,40,Unsatisfied,2025-09-18,31-60
+140,San Francisco,Male,30,Gold,1460.5,20,4.8,False,12,Satisfied,2025-10-16,0-14
+141,Miami,Male,27,Silver,700.4,13,4.0,True,53,Unsatisfied,2025-09-05,31-60
+142,Houston,Female,37,Bronze,420.8,7,3.1,False,21,Neutral,2025-10-07,15-30
+143,New York,Female,31,Gold,1130.6,15,4.5,True,26,Satisfied,2025-10-02,15-30
+144,Los Angeles,Male,35,Silver,820.9,12,4.3,False,12,Neutral,2025-10-16,0-14
+145,Chicago,Female,41,Bronze,480.25,9,3.6,True,38,Unsatisfied,2025-09-20,31-60
+146,San Francisco,Male,28,Gold,1490.1,21,4.9,False,9,Satisfied,2025-10-19,0-14
+147,Miami,Male,32,Silver,680.3,10,3.8,True,32,Unsatisfied,2025-09-26,31-60
+148,Houston,Female,36,Bronze,470.5,8,3.0,False,18,Neutral,2025-10-10,15-30
+149,New York,Female,30,Gold,1180.8,16,4.7,True,19,Satisfied,2025-10-09,15-30
+150,Los Angeles,Male,34,Silver,790.2,11,4.0,False,15,Neutral,2025-10-13,15-30
+151,Chicago,Female,43,Bronze,505.75,10,3.3,True,39,Unsatisfied,2025-09-19,31-60
+152,San Francisco,Male,30,Gold,1470.5,20,4.8,False,13,Satisfied,2025-10-15,0-14
+153,Miami,Male,27,Silver,710.4,13,4.1,True,54,Unsatisfied,2025-09-04,31-60
+154,Houston,Female,37,Bronze,430.8,7,3.4,False,23,Neutral,2025-10-05,15-30
+155,New York,Female,31,Gold,1140.6,15,4.6,True,27,Satisfied,2025-10-01,15-30
+156,Los Angeles,Male,35,Silver,810.9,12,4.3,False,13,Neutral,2025-10-15,0-14
+157,Chicago,Female,41,Bronze,485.25,9,3.6,True,39,Unsatisfied,2025-09-19,31-60
+158,San Francisco,Male,28,Gold,1500.1,21,4.9,False,10,Satisfied,2025-10-18,0-14
+159,Miami,Male,32,Silver,670.3,10,3.8,True,33,Unsatisfied,2025-09-25,31-60
+160,Houston,Female,36,Bronze,460.5,8,3.1,False,19,Neutral,2025-10-09,15-30
+161,New York,Female,30,Gold,1190.8,16,4.5,True,20,Satisfied,2025-10-08,15-30
+162,Los Angeles,Male,33,Silver,830.75,13,4.2,False,14,Satisfied,2025-10-14,0-14
+163,Chicago,Female,42,Bronze,520.4,9,3.5,True,37,Unsatisfied,2025-09-21,31-60
+164,San Francisco,Male,29,Gold,1370.2,18,4.7,False,10,Satisfied,2025-10-18,0-14
+165,Miami,Male,26,Silver,690.6,12,3.9,True,47,Unsatisfied,2025-09-11,31-60
+166,Houston,Female,38,Bronze,440.9,8,3.2,False,24,Neutral,2025-10-04,15-30
+167,New York,Female,32,Gold,1160.3,14,4.4,True,22,Satisfied,2025-10-06,15-30
+168,Los Angeles,Male,34,Silver,800.2,11,4.1,False,17,Neutral,2025-10-11,15-30
+169,Chicago,Female,43,Bronze,500.75,10,3.3,True,40,Unsatisfied,2025-09-18,31-60
+170,San Francisco,Male,30,Gold,1460.5,20,4.8,False,12,Satisfied,2025-10-16,0-14
+171,Miami,Male,27,Silver,700.4,13,4.0,True,53,Unsatisfied,2025-09-05,31-60
+172,Houston,Female,37,Bronze,420.8,7,3.1,False,21,Nan,2025-10-07,15-30
+173,New York,Female,31,Gold,1130.6,15,4.5,True,26,Satisfied,2025-10-02,15-30
+174,Los Angeles,Male,35,Silver,820.9,12,4.3,False,12,Neutral,2025-10-16,0-14
+175,Chicago,Female,41,Bronze,480.25,9,3.6,True,38,Unsatisfied,2025-09-20,31-60
+176,San Francisco,Male,28,Gold,1490.1,21,4.9,False,9,Satisfied,2025-10-19,0-14
+177,Miami,Male,32,Silver,680.3,10,3.8,True,32,Unsatisfied,2025-09-26,31-60
+178,Houston,Female,36,Bronze,470.5,8,3.0,False,18,Neutral,2025-10-10,15-30
+179,New York,Female,30,Gold,1180.8,16,4.7,True,19,Satisfied,2025-10-09,15-30
+180,Los Angeles,Male,34,Silver,790.2,11,4.0,False,15,Neutral,2025-10-13,15-30
+181,Chicago,Female,43,Bronze,505.75,10,3.3,True,39,Unsatisfied,2025-09-19,31-60
+182,San Francisco,Male,30,Gold,1470.5,20,4.8,False,13,Satisfied,2025-10-15,0-14
+183,Miami,Male,27,Silver,710.4,13,4.1,True,54,Unsatisfied,2025-09-04,31-60
+184,Houston,Female,37,Bronze,430.8,7,3.4,False,23,Neutral,2025-10-05,15-30
+185,New York,Female,31,Gold,1140.6,15,4.6,True,27,Satisfied,2025-10-01,15-30
+186,Los Angeles,Male,35,Silver,810.9,12,4.3,False,13,Neutral,2025-10-15,0-14
+187,Chicago,Female,41,Bronze,485.25,9,3.6,True,39,Unsatisfied,2025-09-19,31-60
+188,San Francisco,Male,28,Gold,1500.1,21,4.9,False,10,Satisfied,2025-10-18,0-14
+189,Miami,Male,32,Silver,670.3,10,3.8,True,33,Unsatisfied,2025-09-25,31-60
+190,Houston,Female,36,Bronze,460.5,8,3.1,False,19,Neutral,2025-10-09,15-30
+191,New York,Female,30,Gold,1190.8,16,4.5,True,20,Satisfied,2025-10-08,15-30
+192,Los Angeles,Male,33,Silver,830.75,13,4.2,False,14,Satisfied,2025-10-14,0-14
+193,Chicago,Female,42,Bronze,520.4,9,3.5,True,37,Unsatisfied,2025-09-21,31-60
+194,San Francisco,Male,29,Gold,1370.2,18,4.7,False,10,Satisfied,2025-10-18,0-14
+195,Miami,Male,26,Silver,690.6,12,3.9,True,47,Unsatisfied,2025-09-11,31-60
+196,Houston,Female,38,Bronze,440.9,8,3.2,False,24,Neutral,2025-10-04,15-30
+197,New York,Female,32,Gold,1160.3,14,4.4,True,22,Satisfied,2025-10-06,15-30
+198,Los Angeles,Male,34,Silver,800.2,11,4.1,False,17,Neutral,2025-10-11,15-30
+199,Chicago,Female,43,Bronze,500.75,10,3.3,True,40,Unsatisfied,2025-09-18,31-60
+200,San Francisco,Male,30,Gold,1460.5,20,4.8,False,12,Satisfied,2025-10-16,0-14
+201,Miami,Male,27,Silver,700.4,13,4.0,True,53,Unsatisfied,2025-09-05,31-60
+202,Houston,Female,37,Bronze,420.8,7,3.1,False,21,Neutral,2025-10-07,15-30
+203,New York,Female,31,Gold,1130.6,15,4.5,True,26,Satisfied,2025-10-02,15-30
+204,Los Angeles,Male,35,Silver,820.9,12,4.3,False,12,Neutral,2025-10-16,0-14
+205,Chicago,Female,41,Bronze,480.25,9,3.6,True,38,Unsatisfied,2025-09-20,31-60
+206,San Francisco,Male,28,Gold,1490.1,21,4.9,False,9,Satisfied,2025-10-19,0-14
+207,Miami,Male,32,Silver,680.3,10,3.8,True,32,Unsatisfied,2025-09-26,31-60
+208,Houston,Female,36,Bronze,470.5,8,3.0,False,18,Neutral,2025-10-10,15-30
+209,New York,Female,30,Gold,1180.8,16,4.7,True,19,Satisfied,2025-10-09,15-30
+210,Los Angeles,Male,34,Silver,790.2,11,4.0,False,15,Neutral,2025-10-13,15-30
+211,Chicago,Female,43,Bronze,505.75,10,3.3,True,39,Unsatisfied,2025-09-19,31-60
+212,San Francisco,Male,30,Gold,1470.5,20,4.8,False,13,Satisfied,2025-10-15,0-14
+213,Miami,Male,27,Silver,710.4,13,4.1,True,54,Unsatisfied,2025-09-04,31-60
+214,Houston,Female,37,Bronze,430.8,7,3.4,False,23,Neutral,2025-10-05,15-30
+215,New York,Female,31,Gold,1140.6,15,4.6,True,27,Satisfied,2025-10-01,15-30
+216,Los Angeles,Male,35,Silver,810.9,12,4.3,False,13,Neutral,2025-10-15,0-14
+217,Chicago,Female,41,Bronze,485.25,9,3.6,True,39,Unsatisfied,2025-09-19,31-60
+218,San Francisco,Male,28,Gold,1500.1,21,4.9,False,10,Satisfied,2025-10-18,0-14
+219,Miami,Male,32,Silver,670.3,10,3.8,True,33,Unsatisfied,2025-09-25,31-60
+220,Houston,Female,36,Bronze,460.5,8,3.1,False,19,Neutral,2025-10-09,15-30
+221,New York,Female,30,Gold,1190.8,16,4.5,True,20,Satisfied,2025-10-08,15-30
+222,Los Angeles,Male,33,Silver,830.75,13,4.2,False,14,Satisfied,2025-10-14,0-14
+223,Chicago,Female,42,Bronze,520.4,9,3.5,True,37,Unsatisfied,2025-09-21,31-60
+224,San Francisco,Male,29,Gold,1370.2,18,4.7,False,10,Satisfied,2025-10-18,0-14
+225,Miami,Male,26,Silver,690.6,12,3.9,True,47,Unsatisfied,2025-09-11,31-60
+226,Houston,Female,38,Bronze,440.9,8,3.2,False,24,Neutral,2025-10-04,15-30
+227,New York,Female,32,Gold,1160.3,14,4.4,True,22,Satisfied,2025-10-06,15-30
+228,Los Angeles,Male,34,Silver,800.2,11,4.1,False,17,Neutral,2025-10-11,15-30
+229,Chicago,Female,43,Bronze,500.75,10,3.3,True,40,Unsatisfied,2025-09-18,31-60
+230,San Francisco,Male,30,Gold,1460.5,20,4.8,False,12,Satisfied,2025-10-16,0-14
+231,Miami,Male,27,Silver,700.4,13,4.0,True,53,Unsatisfied,2025-09-05,31-60
+232,Houston,Female,37,Bronze,420.8,7,3.1,False,21,Neutral,2025-10-07,15-30
+233,New York,Female,31,Gold,1130.6,15,4.5,True,26,Satisfied,2025-10-02,15-30
+234,Los Angeles,Male,35,Silver,820.9,12,4.3,False,12,Neutral,2025-10-16,0-14
+235,Chicago,Female,41,Bronze,480.25,9,3.6,True,38,Unsatisfied,2025-09-20,31-60
+236,San Francisco,Male,28,Gold,1490.1,21,4.9,False,9,Satisfied,2025-10-19,0-14
+237,Miami,Male,32,Silver,680.3,10,3.8,True,32,Unsatisfied,2025-09-26,31-60
+238,Houston,Female,36,Bronze,470.5,8,3.0,False,18,Neutral,2025-10-10,15-30
+239,New York,Female,30,Gold,1180.8,16,4.7,True,19,Satisfied,2025-10-09,15-30
+240,Los Angeles,Male,34,Silver,790.2,11,4.0,False,15,Neutral,2025-10-13,15-30
+241,Chicago,Female,43,Bronze,505.75,10,3.3,True,39,Unsatisfied,2025-09-19,31-60
+242,San Francisco,Male,30,Gold,1470.5,20,4.8,False,13,Satisfied,2025-10-15,0-14
+243,Miami,Male,27,Silver,710.4,13,4.1,True,54,Unsatisfied,2025-09-04,31-60
+244,Houston,Female,37,Bronze,430.8,7,3.4,False,23,Nan,2025-10-05,15-30
+245,New York,Female,31,Gold,1130.6,15,4.5,True,26,Satisfied,2025-10-02,15-30
+246,Los Angeles,Male,35,Silver,820.9,12,4.3,False,12,Neutral,2025-10-16,0-14
+247,Chicago,Female,41,Bronze,480.25,9,3.6,True,38,Unsatisfied,2025-09-20,31-60
+248,San Francisco,Male,28,Gold,1490.1,21,4.9,False,9,Satisfied,2025-10-19,0-14
+249,Miami,Male,32,Silver,680.3,10,3.8,True,32,Unsatisfied,2025-09-26,31-60
+250,Houston,Female,36,Bronze,470.5,8,3.0,False,18,Neutral,2025-10-10,15-30
+251,New York,Female,30,Gold,1180.8,16,4.7,True,19,Satisfied,2025-10-09,15-30
+252,Los Angeles,Male,34,Silver,790.2,11,4.0,False,15,Neutral,2025-10-13,15-30
+253,Chicago,Female,43,Bronze,505.75,10,3.3,True,39,Unsatisfied,2025-09-19,31-60
+254,San Francisco,Male,30,Gold,1470.5,20,4.8,False,13,Satisfied,2025-10-15,0-14
+255,Miami,Male,27,Silver,710.4,13,4.1,True,54,Unsatisfied,2025-09-04,31-60
+256,Houston,Female,37,Bronze,430.8,7,3.4,False,23,Neutral,2025-10-05,15-30
+257,New York,Female,31,Gold,1140.6,15,4.6,True,27,Satisfied,2025-10-01,15-30
+258,Los Angeles,Male,35,Silver,810.9,12,4.3,False,13,Neutral,2025-10-15,0-14
+259,Chicago,Female,41,Bronze,485.25,9,3.6,True,39,Unsatisfied,2025-09-19,31-60
+260,San Francisco,Male,28,Gold,1500.1,21,4.9,False,10,Satisfied,2025-10-18,0-14
+261,Miami,Male,32,Silver,670.3,10,3.8,True,33,Unsatisfied,2025-09-25,31-60
+262,Houston,Female,36,Bronze,460.5,8,3.1,False,19,Neutral,2025-10-09,15-30
+263,New York,Female,30,Gold,1190.8,16,4.5,True,20,Satisfied,2025-10-08,15-30
+264,Los Angeles,Male,33,Silver,830.75,13,4.2,False,14,Satisfied,2025-10-14,0-14
+265,Chicago,Female,42,Bronze,520.4,9,3.5,True,37,Unsatisfied,2025-09-21,31-60
+266,San Francisco,Male,29,Gold,1370.2,18,4.7,False,10,Satisfied,2025-10-18,0-14
+267,Miami,Male,26,Silver,690.6,12,3.9,True,47,Unsatisfied,2025-09-11,31-60
+268,Houston,Female,38,Bronze,440.9,8,3.2,False,24,Neutral,2025-10-04,15-30
+269,New York,Female,32,Gold,1160.3,14,4.4,True,22,Satisfied,2025-10-06,15-30
+270,Los Angeles,Male,34,Silver,800.2,11,4.1,False,17,Neutral,2025-10-11,15-30
+271,Chicago,Female,43,Bronze,500.75,10,3.3,True,40,Unsatisfied,2025-09-18,31-60
+272,San Francisco,Male,30,Gold,1460.5,20,4.8,False,12,Satisfied,2025-10-16,0-14
+273,Miami,Male,27,Silver,700.4,13,4.0,True,53,Unsatisfied,2025-09-05,31-60
+274,Houston,Female,37,Bronze,430.8,7,3.4,False,23,Neutral,2025-10-05,15-30
+275,New York,Female,31,Gold,1140.6,15,4.5,True,27,Satisfied,2025-10-01,15-30
+276,Los Angeles,Male,35,Silver,820.9,12,4.3,False,12,Neutral,2025-10-16,0-14
+277,Chicago,Female,41,Bronze,480.25,9,3.6,True,38,Unsatisfied,2025-09-20,31-60
+278,San Francisco,Male,28,Gold,1490.1,21,4.9,False,9,Satisfied,2025-10-19,0-14
+279,Miami,Male,32,Silver,680.3,10,3.8,True,32,Unsatisfied,2025-09-26,31-60
+280,Houston,Female,36,Bronze,470.5,8,3.0,False,18,Neutral,2025-10-10,15-30
+281,New York,Female,30,Gold,1180.8,16,4.7,True,19,Satisfied,2025-10-09,15-30
+282,Los Angeles,Male,34,Silver,790.2,11,4.0,False,15,Neutral,2025-10-13,15-30
+283,Chicago,Female,43,Bronze,505.75,10,3.3,True,39,Unsatisfied,2025-09-19,31-60
+284,San Francisco,Male,30,Gold,1470.5,20,4.8,False,13,Satisfied,2025-10-15,0-14
+285,Miami,Male,27,Silver,710.4,13,4.1,True,54,Unsatisfied,2025-09-04,31-60
+286,Houston,Female,37,Bronze,430.8,7,3.4,False,23,Neutral,2025-10-05,15-30
+287,New York,Female,31,Gold,1130.6,15,4.5,True,26,Satisfied,2025-10-02,15-30
+288,Los Angeles,Male,35,Silver,820.9,12,4.3,False,13,Neutral,2025-10-15,0-14
+289,Chicago,Female,41,Bronze,485.25,9,3.6,True,39,Unsatisfied,2025-09-19,31-60
+290,San Francisco,Male,28,Gold,1500.1,21,4.9,False,10,Satisfied,2025-10-18,0-14
+291,Miami,Male,32,Silver,670.3,10,3.8,True,33,Unsatisfied,2025-09-25,31-60
+292,Houston,Female,36,Bronze,460.5,8,3.1,False,19,Neutral,2025-10-09,15-30
+293,New York,Female,30,Gold,1190.8,16,4.5,True,20,Satisfied,2025-10-08,15-30
+294,Los Angeles,Male,33,Silver,830.75,13,4.2,False,14,Satisfied,2025-10-14,0-14
+295,Chicago,Female,42,Bronze,520.4,9,3.5,True,37,Unsatisfied,2025-09-21,31-60
+296,San Francisco,Male,29,Gold,1370.2,18,4.7,False,10,Satisfied,2025-10-18,0-14
+297,Miami,Male,26,Silver,690.6,12,3.9,True,47,Unsatisfied,2025-09-11,31-60
+298,Houston,Female,38,Bronze,440.9,8,3.2,False,24,Neutral,2025-10-04,15-30
+299,New York,Female,32,Gold,1160.3,14,4.4,True,22,Satisfied,2025-10-06,15-30
+300,Los Angeles,Male,34,Silver,800.2,11,4.1,False,17,Neutral,2025-10-11,15-30
+301,San Francisco,Male,36,Gold,1420.8,19,4.6,False,11,Satisfied,2025-10-17,0-14
+302,Miami,Female,29,Silver,730.4,14,4.0,True,50,Unsatisfied,2025-09-08,31-60
+303,Houston,Female,35,Bronze,450.6,7,3.3,False,21,Neutral,2025-10-07,15-30
+304,New York,Male,31,Gold,1210.6,17,4.8,True,18,Satisfied,2025-10-10,15-30
+305,Los Angeles,Male,27,Silver,780.9,11,4.2,False,16,Neutral,2025-10-12,15-30
+306,Chicago,Female,42,Bronze,495.25,10,3.5,True,35,Unsatisfied,2025-09-23,31-60
+307,San Francisco,Male,29,Gold,1390.2,18,4.7,False,9,Satisfied,2025-10-19,0-14
+308,Miami,Male,26,Silver,670.6,12,3.9,True,46,Unsatisfied,2025-09-12,31-60
+309,Houston,Female,38,Bronze,460.9,8,3.2,False,25,Neutral,2025-10-03,15-30
+310,New York,Female,32,Gold,1170.3,14,4.5,True,21,Satisfied,2025-10-07,15-30
+311,Los Angeles,Male,34,Silver,810.2,11,4.0,False,14,Neutral,2025-10-14,0-14
+312,Chicago,Female,43,Bronze,515.75,9,3.3,True,38,Unsatisfied,2025-09-20,31-60
+313,San Francisco,Male,30,Gold,1450.5,20,4.8,False,12,Satisfied,2025-10-16,0-14
+314,Miami,Male,27,Silver,690.4,13,4.1,True,52,Unsatisfied,2025-09-06,31-60
+315,Houston,Female,37,Bronze,420.8,7,3.4,False,24,Neutral,2025-10-04,15-30
+316,New York,Female,31,Gold,1130.6,15,4.5,True,26,Satisfied,2025-10-02,15-30
+317,Los Angeles,Male,35,Silver,820.9,12,4.3,False,13,Neutral,2025-10-15,0-14
+318,Chicago,Female,41,Bronze,480.25,9,3.6,True,39,Unsatisfied,2025-09-19,31-60
+319,San Francisco,Male,28,Gold,1490.1,21,4.9,False,9,Satisfied,2025-10-19,0-14
+320,Miami,Male,32,Silver,680.3,10,3.8,True,32,Unsatisfied,2025-09-26,31-60
+321,Houston,Female,36,Bronze,470.5,8,3.0,False,18,Neutral,2025-10-10,15-30
+322,New York,Female,30,Gold,1180.8,16,4.7,True,19,Satisfied,2025-10-09,15-30
+323,Los Angeles,Male,34,Silver,790.2,11,4.0,False,15,Neutral,2025-10-13,15-30
+324,Chicago,Female,43,Bronze,505.75,10,3.3,True,39,Unsatisfied,2025-09-19,31-60
+325,San Francisco,Male,30,Gold,1470.5,20,4.8,False,13,Satisfied,2025-10-15,0-14
+326,Miami,Male,27,Silver,710.4,13,4.1,True,54,Unsatisfied,2025-09-04,31-60
+327,Houston,Female,37,Bronze,430.8,7,3.4,False,23,Neutral,2025-10-05,15-30
+328,New York,Female,31,Gold,1140.6,15,4.5,True,27,Satisfied,2025-10-01,15-30
+329,Los Angeles,Male,35,Silver,820.9,12,4.3,False,13,Neutral,2025-10-15,0-14
+330,Chicago,Female,41,Bronze,485.25,9,3.6,True,39,Unsatisfied,2025-09-19,31-60
+331,San Francisco,Male,28,Gold,1500.1,21,4.9,False,10,Satisfied,2025-10-18,0-14
+332,Miami,Male,32,Silver,670.3,10,3.8,True,33,Unsatisfied,2025-09-25,31-60
+333,Houston,Female,36,Bronze,460.5,8,3.1,False,19,Neutral,2025-10-09,15-30
+334,New York,Female,30,Gold,1190.8,16,4.5,True,20,Satisfied,2025-10-08,15-30
+335,Los Angeles,Male,33,Silver,830.75,13,4.2,False,14,Satisfied,2025-10-14,0-14
+336,Chicago,Female,42,Bronze,520.4,9,3.5,True,37,Unsatisfied,2025-09-21,31-60
+337,San Francisco,Male,29,Gold,1370.2,18,4.7,False,10,Satisfied,2025-10-18,0-14
+338,Miami,Male,26,Silver,690.6,12,3.9,True,47,Unsatisfied,2025-09-11,31-60
+339,Houston,Female,38,Bronze,440.9,8,3.2,False,24,Neutral,2025-10-04,15-30
+340,New York,Female,32,Gold,1160.3,14,4.4,True,22,Satisfied,2025-10-06,15-30
+341,Los Angeles,Male,34,Silver,800.2,11,4.1,False,17,Neutral,2025-10-11,15-30
+342,Chicago,Female,43,Bronze,525.75,9,3.3,True,40,Unsatisfied,2025-09-18,31-60
+343,San Francisco,Male,30,Gold,1460.5,20,4.8,False,11,Satisfied,2025-10-17,0-14
+344,Miami,Male,27,Silver,720.4,13,4.0,True,55,Unsatisfied,2025-09-03,31-60
+345,Houston,Female,37,Bronze,440.8,7,3.2,False,25,Neutral,2025-10-03,15-30
+346,New York,Female,31,Gold,1150.6,15,4.5,True,28,Satisfied,2025-09-30,15-30
+347,Los Angeles,Male,35,Silver,830.9,12,4.3,False,14,Neutral,2025-10-14,0-14
+348,Chicago,Female,41,Bronze,490.25,9,3.6,True,40,Unsatisfied,2025-09-18,31-60
+349,San Francisco,Male,28,Gold,1480.1,21,4.9,False,10,Satisfied,2025-10-18,0-14
+350,Miami,Male,32,Silver,690.3,10,3.8,True,34,Unsatisfied,2025-09-24,31-60
+351,Houston,Female,36,Bronze,480.5,8,3.1,False,20,Neutral,2025-10-08,15-30
+352,New York,Female,30,Gold,1170.8,16,4.7,True,21,Satisfied,2025-10-07,15-30
+353,Los Angeles,Male,34,Silver,790.2,11,4.0,False,15,Neutral,2025-10-13,15-30
+354,Chicago,Female,43,Bronze,510.75,10,3.3,True,41,Unsatisfied,2025-09-17,31-60
+355,San Francisco,Male,30,Gold,1440.5,19,4.6,False,12,Satisfied,2025-10-16,0-14
+356,Miami,Male,27,Silver,700.4,13,4.1,True,56,Unsatisfied,2025-09-02,31-60
+357,Houston,Female,37,Bronze,410.8,7,3.4,False,26,Neutral,2025-10-02,15-30
+358,New York,Female,31,Gold,1160.6,15,4.5,True,29,Satisfied,2025-09-29,15-30
+359,Los Angeles,Male,35,Silver,810.9,12,4.3,False,14,Neutral,2025-10-14,0-14
+360,Chicago,Female,41,Bronze,495.25,9,3.6,True,41,Unsatisfied,2025-09-17,31-60
+361,San Francisco,Male,28,Gold,1490.1,21,4.9,False,10,Satisfied,2025-10-18,0-14
+362,Miami,Male,32,Silver,660.3,10,3.8,True,35,Unsatisfied,2025-09-23,31-60
+363,Houston,Female,36,Bronze,430.5,8,3.1,False,21,Neutral,2025-10-07,15-30
+364,New York,Female,30,Gold,1200.8,16,4.7,True,22,Satisfied,2025-10-06,15-30
+365,Los Angeles,Male,34,Silver,780.2,11,4.1,False,16,Neutral,2025-10-12,15-30
+366,Chicago,Female,43,Bronze,505.75,10,3.3,True,42,Unsatisfied,2025-09-16,31-60
+367,San Francisco,Male,30,Gold,1460.5,20,4.8,False,13,Satisfied,2025-10-15,0-14
+368,Miami,Male,27,Silver,710.4,13,4.1,True,57,Unsatisfied,2025-09-01,31-60
+369,Houston,Female,37,Bronze,450.8,7,3.4,False,24,Neutral,2025-10-04,15-30
+370,New York,Female,31,Gold,1140.6,15,4.5,True,30,Satisfied,2025-09-28,15-30
+371,Los Angeles,Male,35,Silver,800.9,12,4.1,False,17,Neutral,2025-10-11,15-30
+372,Chicago,Female,41,Bronze,475.25,9,3.6,True,42,Unsatisfied,2025-09-16,31-60
+373,San Francisco,Male,28,Gold,1480.1,21,4.9,False,11,Satisfied,2025-10-17,0-14
+374,Miami,Male,32,Silver,660.3,10,3.8,True,36,Unsatisfied,2025-09-22,31-60
+375,Houston,Female,36,Bronze,470.5,8,3.0,False,22,Neutral,2025-10-06,15-30
+376,New York,Female,30,Gold,1190.8,16,4.5,True,23,Satisfied,2025-10-05,15-30
+377,Los Angeles,Male,33,Silver,770.2,11,4.2,False,18,Neutral,2025-10-10,15-30
+378,Chicago,Female,43,Bronze,515.75,10,3.3,True,43,Unsatisfied,2025-09-15,31-60
+379,San Francisco,Male,30,Gold,1450.5,19,4.6,False,12,Satisfied,2025-10-16,0-14
+380,Miami,Male,27,Silver,710.4,13,4.1,True,58,Unsatisfied,2025-08-31,31-60
+381,Houston,Female,37,Bronze,430.8,7,3.4,False,27,Neutral,2025-10-01,15-30
+382,New York,Female,31,Gold,1160.6,15,4.5,True,31,Satisfied,2025-09-27,31-60
+383,Los Angeles,Male,35,Silver,820.9,12,4.3,False,15,Neutral,2025-10-13,15-30
+384,Chicago,Female,41,Bronze,495.25,9,3.6,True,43,Unsatisfied,2025-09-15,31-60
+385,San Francisco,Male,28,Gold,1490.1,21,4.9,False,10,Satisfied,2025-10-18,0-14
+386,Miami,Male,32,Silver,660.3,10,3.8,True,37,Unsatisfied,2025-09-21,31-60
+387,Houston,Female,36,Bronze,440.5,8,3.1,False,23,Neutral,2025-10-05,15-30
+388,New York,Female,30,Gold,1200.8,16,4.7,True,24,Satisfied,2025-10-04,15-30
+389,Los Angeles,Male,34,Silver,780.2,11,4.1,False,16,Neutral,2025-10-12,15-30
+390,Chicago,Female,43,Bronze,505.75,10,3.3,True,44,Unsatisfied,2025-09-14,31-60
+391,San Francisco,Male,30,Gold,1460.5,20,4.8,False,13,Satisfied,2025-10-15,0-14
+392,Miami,Male,27,Silver,710.4,13,4.1,True,59,Unsatisfied,2025-08-30,31-60
+393,Houston,Female,37,Bronze,450.8,7,3.4,False,28,Neutral,2025-09-30,15-30
+394,New York,Female,31,Gold,1140.6,15,4.5,True,32,Satisfied,2025-09-26,31-60
+395,Los Angeles,Male,35,Silver,800.9,12,4.1,False,17,Neutral,2025-10-11,15-30
+396,Chicago,Female,41,Bronze,475.25,9,3.6,True,44,Unsatisfied,2025-09-14,31-60
+397,San Francisco,Male,28,Gold,1480.1,21,4.9,False,12,Satisfied,2025-10-16,0-14
+398,Miami,Male,32,Silver,660.3,10,3.8,True,38,Unsatisfied,2025-09-20,31-60
+399,Houston,Female,36,Bronze,470.5,8,3.0,False,22,Neutral,2025-10-06,15-30
+400,New York,Female,30,Gold,1190.8,16,4.5,True,25,Satisfied,2025-10-03,15-30
+401,Los Angeles,Male,33,Silver,800.2,11,4.1,False,18,Neutral,2025-10-10,15-30
+402,Chicago,Female,43,Bronze,515.75,10,3.3,True,45,Unsatisfied,2025-09-13,31-60
+403,San Francisco,Male,30,Gold,1450.5,19,4.6,False,13,Satisfied,2025-10-15,0-14
+404,Miami,Male,27,Silver,710.4,13,4.1,True,60,Unsatisfied,2025-08-29,31-60
+405,Houston,Female,37,Bronze,430.8,7,3.4,False,29,Neutral,2025-09-29,15-30
+406,New York,Female,31,Gold,1160.6,15,4.5,True,33,Satisfied,2025-09-25,31-60
+407,Los Angeles,Male,35,Silver,820.9,12,4.3,False,16,Neutral,2025-10-12,15-30
+408,Chicago,Female,41,Bronze,495.25,9,3.6,True,45,Unsatisfied,2025-09-13,31-60
+409,San Francisco,Male,28,Gold,1490.1,21,4.9,False,11,Satisfied,2025-10-17,0-14
+410,Miami,Male,32,Silver,660.3,10,3.8,True,39,Unsatisfied,2025-09-19,31-60
+411,Houston,Female,36,Bronze,440.5,8,3.1,False,24,Neutral,2025-10-04,15-30
+412,New York,Female,30,Gold,1200.8,16,4.7,True,25,Satisfied,2025-10-03,15-30
+413,Los Angeles,Male,34,Silver,780.2,11,4.1,False,17,Neutral,2025-10-11,15-30
+414,Chicago,Female,43,Bronze,505.75,10,3.3,True,46,Unsatisfied,2025-09-12,31-60
+415,San Francisco,Male,30,Gold,1460.5,20,4.8,False,14,Satisfied,2025-10-14,0-14
+416,Miami,Male,27,Silver,710.4,13,4.1,True,61,Unsatisfied,2025-08-28,60+
+417,Houston,Female,37,Bronze,450.8,7,3.4,False,30,Neutral,2025-09-28,15-30
+418,New York,Female,31,Gold,1140.6,15,4.5,True,34,Satisfied,2025-09-24,31-60
+419,Los Angeles,Male,35,Silver,800.9,12,4.1,False,19,Neutral,2025-10-09,15-30
+420,Chicago,Female,41,Bronze,475.25,9,3.6,True,46,Unsatisfied,2025-09-12,31-60
+421,San Francisco,Male,28,Gold,1480.1,21,4.9,False,12,Satisfied,2025-10-16,0-14
+422,Miami,Male,32,Silver,660.3,10,3.8,True,40,Unsatisfied,2025-09-18,31-60
+423,Houston,Female,36,Bronze,470.5,8,3.0,False,26,Neutral,2025-10-02,15-30
+424,New York,Female,30,Gold,1190.8,16,4.5,True,27,Satisfied,2025-10-01,15-30
+425,Los Angeles,Male,34,Silver,780.2,11,4.2,False,18,Neutral,2025-10-10,15-30
+426,Chicago,Female,43,Bronze,515.75,10,3.3,True,47,Unsatisfied,2025-09-11,31-60
+427,San Francisco,Male,30,Gold,1450.5,19,4.6,False,14,Satisfied,2025-10-14,0-14
+428,Miami,Male,27,Silver,710.4,13,4.1,True,62,Unsatisfied,2025-08-27,60+
+429,Houston,Female,37,Bronze,430.8,7,3.4,False,31,Neutral,2025-09-27,31-60
+430,New York,Female,31,Gold,1160.6,15,4.5,True,35,Satisfied,2025-09-23,31-60
+431,Los Angeles,Male,35,Silver,820.9,12,4.3,False,20,Neutral,2025-10-08,15-30
+432,Chicago,Female,41,Bronze,495.25,9,3.6,True,47,Unsatisfied,2025-09-11,31-60
+433,San Francisco,Male,28,Gold,1490.1,21,4.9,False,11,Satisfied,2025-10-17,0-14
+434,Miami,Male,32,Silver,660.3,10,3.8,True,41,Unsatisfied,2025-09-17,31-60
+435,Houston,Female,36,Bronze,440.5,8,3.1,False,28,Neutral,2025-09-30,15-30
+436,New York,Female,30,Gold,1200.8,16,4.7,True,28,Satisfied,2025-09-30,15-30
+437,Los Angeles,Male,34,Silver,780.2,11,4.1,False,19,Neutral,2025-10-09,15-30
+438,Chicago,Female,43,Bronze,505.75,10,3.3,True,48,Unsatisfied,2025-09-10,31-60
+439,San Francisco,Male,30,Gold,1460.5,20,4.8,False,15,Satisfied,2025-10-13,15-30
+440,Miami,Male,27,Silver,710.4,13,4.1,True,63,Unsatisfied,2025-08-26,60+
+441,Houston,Female,37,Bronze,450.8,7,3.4,False,32,Neutral,2025-09-26,31-60
+442,New York,Female,31,Gold,1140.6,15,4.5,True,36,Satisfied,2025-09-22,31-60
+443,Los Angeles,Male,35,Silver,800.9,12,4.1,False,20,Neutral,2025-10-08,15-30
+444,Chicago,Female,41,Bronze,475.25,9,3.6,True,48,Unsatisfied,2025-09-10,31-60
+445,San Francisco,Male,28,Gold,1480.1,21,4.9,False,13,Satisfied,2025-10-15,0-14
+446,Miami,Male,32,Silver,660.3,10,3.8,True,42,Unsatisfied,2025-09-16,31-60
+447,Houston,Female,36,Bronze,470.5,8,3.0,False,27,Neutral,2025-10-01,15-30
+448,New York,Female,30,Gold,1190.8,16,4.5,True,28,Satisfied,2025-09-30,15-30
+449,Los Angeles,Male,34,Silver,780.2,11,4.2,False,21,Neutral,2025-10-07,15-30
+450,Chicago,Female,43,Bronze,515.75,10,3.3,True,49,Unsatisfied,2025-09-09,31-60
